@@ -1,0 +1,87 @@
+E:\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe.config
+E:\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe
+E:\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.pdb
+E:\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormMain.resources
+E:\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormAdministrar.resources
+E:\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.Properties.Resources.resources
+E:\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.csproj.GenerateResource.Cache
+E:\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.exe
+E:\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.pdb
+F:\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe.config
+F:\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.exe
+F:\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.pdb
+E:\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.csprojResolveAssemblyReference.cache
+E:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe.config
+E:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.exe
+E:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.pdb
+E:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe
+E:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.pdb
+E:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormMain.resources
+E:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormAdministrar.resources
+E:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.Properties.Resources.resources
+E:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.csproj.GenerateResource.Cache
+F:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe.config
+F:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.exe
+F:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.pdb
+F:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe
+F:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.pdb
+F:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.csprojResolveAssemblyReference.cache
+F:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormMain.resources
+F:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormAdministrar.resources
+F:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.Properties.Resources.resources
+F:\.Trashes\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.csproj.GenerateResource.Cache
+F:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe.config
+F:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.exe
+F:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.pdb
+E:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe.config
+E:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.exe
+E:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.pdb
+E:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe
+E:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.pdb
+E:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormMain.resources
+E:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormAdministrar.resources
+E:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.Properties.Resources.resources
+E:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.csproj.GenerateResource.Cache
+F:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe
+F:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.pdb
+F:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.UI.FormLogin.resources
+F:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormMain.resources
+F:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormAdministrar.resources
+F:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.Properties.Resources.resources
+F:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.csproj.GenerateResource.Cache
+E:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.UI.FormLogin.resources
+G:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe.config
+G:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.exe
+G:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.pdb
+G:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.UI.FormLogin.resources
+G:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormMain.resources
+G:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormAdministrar.resources
+G:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.Properties.Resources.resources
+G:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.csproj.GenerateResource.Cache
+G:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe
+G:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.pdb
+G:\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.csprojResolveAssemblyReference.cache
+E:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe.config
+E:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.exe
+E:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.pdb
+E:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe
+E:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.pdb
+E:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.csprojResolveAssemblyReference.cache
+E:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.UI.FormLogin.resources
+E:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormMain.resources
+E:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormAdministrar.resources
+E:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.Properties.Resources.resources
+E:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.csproj.GenerateResource.Cache
+F:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe.config
+F:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.exe
+F:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.pdb
+F:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.UI.FormLogin.resources
+F:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormMain.resources
+F:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.FormAdministrar.resources
+F:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.Properties.Resources.resources
+F:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.csproj.GenerateResource.Cache
+F:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.exe
+F:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\bin\Debug\Sistema Egresados - ESIS.pdb
+F:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema Egresados - ESIS.csprojResolveAssemblyReference.cache
+F:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.UI.FormAcerca.resources
+E:\.Trashes\archivos guardados\Sistema Egresados - ESIS\Sistema Egresados - ESIS\obj\Debug\Sistema_Egresados___ESIS.UI.FormAcerca.resources
